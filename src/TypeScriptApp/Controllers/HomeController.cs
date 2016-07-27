@@ -8,5 +8,15 @@ namespace TypeScriptApp.Controllers
         {
             return View();
         }
+
+        public IActionResult Game()
+        {
+            return View();
+        }
+
+        public IActionResult Error()
+        {
+            return View();
+        }
     }
 }

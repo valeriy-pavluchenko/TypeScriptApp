@@ -2,7 +2,7 @@
 
 class SuperClass {
     public Method1(): string {
-        return "TAKE SOME SHIT MOTHERFUCKER";
+        return "Hello World from TypeScriptApp";
     }
 
     public Method2(): void {

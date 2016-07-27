@@ -3,7 +3,7 @@ var SuperClass = (function () {
     function SuperClass() {
     }
     SuperClass.prototype.Method1 = function () {
-        return "TAKE SOME SHIT MOTHERFUCKER";
+        return "Hello World from TypeScriptApp";
     };
     SuperClass.prototype.Method2 = function () {
         $(".shit").append(this.Method1());
